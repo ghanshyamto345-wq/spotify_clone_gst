@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="24"
+     height="24"
+     viewBox="0 0 24 24"
+     fill="white">
+    <!-- Vertical bar -->
+    <rect x="4" y="5" width="2" height="14" rx="1"/>
+    
+    <!-- First triangle -->
+    <path d="M18 6L10 12L18 18V6Z"/>
+    
+    <!-- Second triangle -->
+    <path d="M11 6L3 12L11 18V6Z"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="140"
+     height="42"
+     viewBox="0 0 168 50"
+     fill="none">
+
+    <!-- Spotify Circle -->
+    <circle cx="25" cy="25" r="23" fill="white"/>
+
+    <!-- Spotify Waves -->
+    <path d="M13 18c8-2 17-1 24 3" stroke="black" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M15 24c6-1.5 13-1 18 2" stroke="black" stroke-width="2.3" stroke-linecap="round"/>
+    <path d="M17 30c4-1 8-.5 11 1" stroke="black" stroke-width="2.2" stroke-linecap="round"/>
+
+    <!-- Spotify Text -->
+    <text x="55"
+          y="33"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="24"
+          font-weight="700"
+          fill="white">
+        Spotify
+    </text>
+</svg>
