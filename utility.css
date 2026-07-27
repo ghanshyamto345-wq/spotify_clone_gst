@@ -1,0 +1,190 @@
+/* ===========================
+   UTILITY CSS
+=========================== */
+
+
+/* FLEX */
+
+.flex{
+    display:flex;
+}
+
+
+/* ALIGNMENT */
+
+.justify-center{
+    justify-content:center;
+}
+
+.justify-between{
+    justify-content:space-between;
+}
+
+.items-center{
+    align-items:center;
+}
+
+
+
+/* BACKGROUND */
+
+.bg-black{
+    background-color:#000;
+    color:white;
+}
+
+
+.bg-grey{
+    background-color:#121212;
+}
+
+
+
+/* BORDER */
+
+.border{
+    border:1px solid #555;
+}
+
+
+
+/* RADIUS */
+
+.rounded{
+    border-radius:8px;
+}
+
+
+
+/* MARGIN */
+
+.m-1{
+    margin:10px;
+}
+
+
+
+/* PADDING */
+
+.p-1{
+    padding:10px;
+}
+
+
+
+/* INVERT SVG / IMAGE */
+
+.invert{
+    filter:invert(1);
+}
+
+
+
+/* WIDTH CONTROL */
+
+.w-100{
+    width:100%;
+}
+
+
+
+/* HEIGHT CONTROL */
+
+.h-100{
+    height:100%;
+}
+
+
+
+/* MAIN LAYOUT */
+
+.container{
+
+    display:flex;
+
+    width:100%;
+
+    height:100vh;
+
+    overflow:hidden;
+
+}
+
+
+
+/* LEFT SIDEBAR */
+
+.left{
+
+    width:25%;
+
+    padding:10px;
+
+}
+
+
+
+/* RIGHT SECTION */
+
+.right{
+
+    width:75%;
+
+    margin:10px;
+
+}
+
+
+
+/* BUTTON RESET */
+
+button{
+
+    cursor:pointer;
+
+}
+
+
+
+/* TEXT */
+
+.text-white{
+    color:white;
+}
+
+
+.text-grey{
+    color:#aaa;
+}
+
+
+
+/* SCROLLBAR */
+
+::-webkit-scrollbar{
+
+    width:8px;
+
+}
+
+
+::-webkit-scrollbar-thumb{
+
+    background:#555;
+
+    border-radius:10px;
+
+}
+
+
+::-webkit-scrollbar-track{
+
+    background:#121212;
+
+}
+.left{
+    margin: -11px;
+}
+.right{ 
+    margin: 9px;
+}
